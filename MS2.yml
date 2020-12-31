@@ -1,6 +1,6 @@
 sample:
   message1: Hello World from spring cloud server (from MS2) UPDATED ENTRY!!
   list:
-    message: One,Two,Three,Four
+    message: One,Two,Three,Four,Five
   user:
     data: "{name:'Mohith Muralidhara',age:'36',location:'Switzerland'}"
