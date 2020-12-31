@@ -3,4 +3,4 @@ sample:
   list:
     message: One,Two,Three,Four
   user:
-    data: "{name:'Mohith',age:'36',location:'Switzerland'}"
+    data: "{name:'Mohith Muralidhara',age:'36',location:'Switzerland'}"
