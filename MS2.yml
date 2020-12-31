@@ -1,5 +1,5 @@
 sample:
-  message1: Hello World from spring cloud server (from MS2)!!
+  message1: Hello World from spring cloud server (from MS2) UPDATED!!
   list:
     message: One,Two,Three,Four
   user:
